@@ -1,0 +1,985 @@
+Year,Region,Predicted_Air_Quality
+2021,Afghanistan,Moderate
+2022,Afghanistan,Moderate
+2023,Afghanistan,Sensitive
+2024,Afghanistan,Sensitive
+2021,Akrotiri and Dhekelia,Moderate
+2022,Akrotiri and Dhekelia,Moderate
+2023,Akrotiri and Dhekelia,Moderate
+2024,Akrotiri and Dhekelia,Moderate
+2021,Aland,Good
+2022,Aland,Good
+2023,Aland,Good
+2024,Aland,Good
+2021,Albania,Moderate
+2022,Albania,Moderate
+2023,Albania,Moderate
+2024,Albania,Moderate
+2021,Algeria,Moderate
+2022,Algeria,Moderate
+2023,Algeria,Moderate
+2024,Algeria,Moderate
+2021,American Samoa,Good
+2022,American Samoa,Good
+2023,American Samoa,Good
+2024,American Samoa,Good
+2021,Andorra,Good
+2022,Andorra,Good
+2023,Andorra,Good
+2024,Andorra,Good
+2021,Angola,Moderate
+2022,Angola,Moderate
+2023,Angola,Moderate
+2024,Angola,Moderate
+2021,Anguilla,Good
+2022,Anguilla,Good
+2023,Anguilla,Good
+2024,Anguilla,Good
+2021,Antigua and Barbuda,Good
+2022,Antigua and Barbuda,Good
+2023,Antigua and Barbuda,Good
+2024,Antigua and Barbuda,Good
+2021,Argentina,Moderate
+2022,Argentina,Moderate
+2023,Argentina,Moderate
+2024,Argentina,Moderate
+2021,Armenia,Moderate
+2022,Armenia,Moderate
+2023,Armenia,Moderate
+2024,Armenia,Moderate
+2021,Aruba,Good
+2022,Aruba,Good
+2023,Aruba,Good
+2024,Aruba,Good
+2021,Australia,Good
+2022,Australia,Good
+2023,Australia,Good
+2024,Australia,Good
+2021,Austria,Good
+2022,Austria,Good
+2023,Austria,Good
+2024,Austria,Good
+2021,Azerbaijan,Moderate
+2022,Azerbaijan,Moderate
+2023,Azerbaijan,Moderate
+2024,Azerbaijan,Moderate
+2021,Bahamas,Good
+2022,Bahamas,Good
+2023,Bahamas,Good
+2024,Bahamas,Good
+2021,Bahrain,Critical
+2022,Bahrain,Critical
+2023,Bahrain,Sensitive
+2024,Bahrain,Sensitive
+2021,Bangladesh,Critical
+2022,Bangladesh,Critical
+2023,Bangladesh,Critical
+2024,Bangladesh,Critical
+2021,Barbados,Good
+2022,Barbados,Good
+2023,Barbados,Good
+2024,Barbados,Good
+2021,Belarus,Moderate
+2022,Belarus,Good
+2023,Belarus,Moderate
+2024,Belarus,Moderate
+2021,Belgium,Good
+2022,Belgium,Good
+2023,Belgium,Good
+2024,Belgium,Good
+2021,Belize,Good
+2022,Belize,Good
+2023,Belize,Moderate
+2024,Belize,Moderate
+2021,Benin,Sensitive
+2022,Benin,Sensitive
+2023,Benin,Sensitive
+2024,Benin,Sensitive
+2021,Bermuda,Good
+2022,Bermuda,Good
+2023,Bermuda,Good
+2024,Bermuda,Good
+2021,Bhutan,Moderate
+2022,Bhutan,Moderate
+2023,Bhutan,Moderate
+2024,Bhutan,Moderate
+2021,Bolivia,Moderate
+2022,Bolivia,Moderate
+2023,Bolivia,Moderate
+2024,Bolivia,Sensitive
+2021,Bonaire; Sint Eustatius and Saba,Good
+2022,Bonaire; Sint Eustatius and Saba,Good
+2023,Bonaire; Sint Eustatius and Saba,Good
+2024,Bonaire; Sint Eustatius and Saba,Good
+2021,Bosnia and Herzegovina,Moderate
+2022,Bosnia and Herzegovina,Moderate
+2023,Bosnia and Herzegovina,Moderate
+2024,Bosnia and Herzegovina,Moderate
+2021,Botswana,Moderate
+2022,Botswana,Moderate
+2023,Botswana,Moderate
+2024,Botswana,Moderate
+2021,Brazil,Moderate
+2022,Brazil,Moderate
+2023,Brazil,Moderate
+2024,Brazil,Moderate
+2021,British Virgin Islands,Good
+2022,British Virgin Islands,Good
+2023,British Virgin Islands,Good
+2024,British Virgin Islands,Good
+2021,Brunei,Good
+2022,Brunei,Good
+2023,Brunei,Good
+2024,Brunei,Good
+2021,Bulgaria,Moderate
+2022,Bulgaria,Moderate
+2023,Bulgaria,Moderate
+2024,Bulgaria,Moderate
+2021,Burkina Faso,Moderate
+2022,Burkina Faso,Sensitive
+2023,Burkina Faso,Moderate
+2024,Burkina Faso,Moderate
+2021,Burundi,Sensitive
+2022,Burundi,Sensitive
+2023,Burundi,Moderate
+2024,Burundi,Sensitive
+2021,Cambodia,Moderate
+2022,Cambodia,Moderate
+2023,Cambodia,Moderate
+2024,Cambodia,Moderate
+2021,Cameroon,Sensitive
+2022,Cameroon,Sensitive
+2023,Cameroon,Sensitive
+2024,Cameroon,Sensitive
+2021,Canada,Good
+2022,Canada,Good
+2023,Canada,Good
+2024,Canada,Good
+2021,Cape Verde,Moderate
+2022,Cape Verde,Moderate
+2023,Cape Verde,Moderate
+2024,Cape Verde,Moderate
+2021,Caspian Sea,Moderate
+2022,Caspian Sea,Moderate
+2023,Caspian Sea,Moderate
+2024,Caspian Sea,Moderate
+2021,Cayman Islands,Moderate
+2022,Cayman Islands,Moderate
+2023,Cayman Islands,Moderate
+2024,Cayman Islands,Moderate
+2021,Central African Republic,Moderate
+2022,Central African Republic,Moderate
+2023,Central African Republic,Moderate
+2024,Central African Republic,Moderate
+2021,Chad,Sensitive
+2022,Chad,Moderate
+2023,Chad,Sensitive
+2024,Chad,Sensitive
+2021,Chile,Moderate
+2022,Chile,Moderate
+2023,Chile,Moderate
+2024,Chile,Moderate
+2021,China,Moderate
+2022,China,Moderate
+2023,China,Moderate
+2024,China,Moderate
+2021,Christmas Island,Good
+2022,Christmas Island,Good
+2023,Christmas Island,Good
+2024,Christmas Island,Good
+2021,Cocos Islands,Good
+2022,Cocos Islands,Good
+2023,Cocos Islands,Good
+2024,Cocos Islands,Good
+2021,Colombia,Moderate
+2022,Colombia,Moderate
+2023,Colombia,Moderate
+2024,Colombia,Moderate
+2021,Comoros,Good
+2022,Comoros,Good
+2023,Comoros,Good
+2024,Comoros,Good
+2021,Cook Islands,Good
+2022,Cook Islands,Good
+2023,Cook Islands,Good
+2024,Cook Islands,Good
+2021,Costa Rica,Moderate
+2022,Costa Rica,Moderate
+2023,Costa Rica,Moderate
+2024,Costa Rica,Moderate
+2021,Croatia,Moderate
+2022,Croatia,Moderate
+2023,Croatia,Moderate
+2024,Croatia,Moderate
+2021,Cuba,Good
+2022,Cuba,Good
+2023,Cuba,Good
+2024,Cuba,Good
+2021,Curaçao,Good
+2022,Curaçao,Good
+2023,Curaçao,Good
+2024,Curaçao,Good
+2021,Cyprus,Moderate
+2022,Cyprus,Moderate
+2023,Cyprus,Moderate
+2024,Cyprus,Moderate
+2021,Czech Republic,Moderate
+2022,Czech Republic,Moderate
+2023,Czech Republic,Moderate
+2024,Czech Republic,Good
+2021,Côte d'Ivoire,Moderate
+2022,Côte d'Ivoire,Moderate
+2023,Côte d'Ivoire,Moderate
+2024,Côte d'Ivoire,Moderate
+2021,Democratic Republic of the Congo,Sensitive
+2022,Democratic Republic of the Congo,Sensitive
+2023,Democratic Republic of the Congo,Moderate
+2024,Democratic Republic of the Congo,Sensitive
+2021,Denmark,Good
+2022,Denmark,Good
+2023,Denmark,Good
+2024,Denmark,Good
+2021,Djibouti,Moderate
+2022,Djibouti,Moderate
+2023,Djibouti,Moderate
+2024,Djibouti,Moderate
+2021,Dominica,Good
+2022,Dominica,Good
+2023,Dominica,Good
+2024,Dominica,Good
+2021,Dominican Republic,Good
+2022,Dominican Republic,Good
+2023,Dominican Republic,Good
+2024,Dominican Republic,Moderate
+2021,Ecuador,Moderate
+2022,Ecuador,Moderate
+2023,Ecuador,Moderate
+2024,Ecuador,Moderate
+2021,Egypt,Sensitive
+2022,Egypt,Sensitive
+2023,Egypt,Sensitive
+2024,Egypt,Sensitive
+2021,El Salvador,Moderate
+2022,El Salvador,Moderate
+2023,El Salvador,Moderate
+2024,El Salvador,Moderate
+2021,Equatorial Guinea,Moderate
+2022,Equatorial Guinea,Moderate
+2023,Equatorial Guinea,Moderate
+2024,Equatorial Guinea,Sensitive
+2021,Eritrea,Moderate
+2022,Eritrea,Moderate
+2023,Eritrea,Moderate
+2024,Eritrea,Moderate
+2021,Estonia,Good
+2022,Estonia,Good
+2023,Estonia,Good
+2024,Estonia,Good
+2021,Ethiopia,Moderate
+2022,Ethiopia,Moderate
+2023,Ethiopia,Moderate
+2024,Ethiopia,Moderate
+2021,Falkland Islands,Good
+2022,Falkland Islands,Good
+2023,Falkland Islands,Good
+2024,Falkland Islands,Good
+2021,Faroe Islands,Good
+2022,Faroe Islands,Good
+2023,Faroe Islands,Good
+2024,Faroe Islands,Good
+2021,Fiji,Good
+2022,Fiji,Good
+2023,Fiji,Good
+2024,Fiji,Good
+2021,Finland,Good
+2022,Finland,Good
+2023,Finland,Good
+2024,Finland,Good
+2021,France,Good
+2022,France,Good
+2023,France,Good
+2024,France,Good
+2021,French Guiana,Moderate
+2022,French Guiana,Moderate
+2023,French Guiana,Good
+2024,French Guiana,Moderate
+2021,French Polynesia,Good
+2022,French Polynesia,Good
+2023,French Polynesia,Good
+2024,French Polynesia,Good
+2021,Gabon,Moderate
+2022,Gabon,Moderate
+2023,Gabon,Moderate
+2024,Gabon,Moderate
+2021,Gambia,Sensitive
+2022,Gambia,Moderate
+2023,Gambia,Moderate
+2024,Gambia,Moderate
+2021,Georgia,Moderate
+2022,Georgia,Moderate
+2023,Georgia,Moderate
+2024,Georgia,Moderate
+2021,Germany,Good
+2022,Germany,Good
+2023,Germany,Good
+2024,Germany,Good
+2021,Ghana,Moderate
+2022,Ghana,Moderate
+2023,Ghana,Moderate
+2024,Ghana,Moderate
+2021,Gibraltar,Good
+2022,Gibraltar,Moderate
+2023,Gibraltar,Moderate
+2024,Gibraltar,Moderate
+2021,Greece,Moderate
+2022,Greece,Moderate
+2023,Greece,Moderate
+2024,Greece,Moderate
+2021,Greenland,Good
+2022,Greenland,Good
+2023,Greenland,Good
+2024,Greenland,Good
+2021,Grenada,Good
+2022,Grenada,Good
+2023,Grenada,Good
+2024,Grenada,Good
+2021,Guadeloupe,Good
+2022,Guadeloupe,Good
+2023,Guadeloupe,Good
+2024,Guadeloupe,Good
+2021,Guam,Good
+2022,Guam,Good
+2023,Guam,Good
+2024,Guam,Good
+2021,Guatemala,Moderate
+2022,Guatemala,Moderate
+2023,Guatemala,Moderate
+2024,Guatemala,Moderate
+2021,Guernsey,Good
+2022,Guernsey,Good
+2023,Guernsey,Good
+2024,Guernsey,Good
+2021,Guinea,Moderate
+2022,Guinea,Moderate
+2023,Guinea,Moderate
+2024,Guinea,Moderate
+2021,Guinea-Bissau,Moderate
+2022,Guinea-Bissau,Moderate
+2023,Guinea-Bissau,Moderate
+2024,Guinea-Bissau,Moderate
+2021,Guyana,Moderate
+2022,Guyana,Moderate
+2023,Guyana,Moderate
+2024,Guyana,Moderate
+2021,Haiti,Moderate
+2022,Haiti,Moderate
+2023,Haiti,Moderate
+2024,Haiti,Moderate
+2021,Honduras,Moderate
+2022,Honduras,Moderate
+2023,Honduras,Moderate
+2024,Honduras,Moderate
+2021,Hong Kong,Moderate
+2022,Hong Kong,Moderate
+2023,Hong Kong,Moderate
+2024,Hong Kong,Moderate
+2021,Hungary,Moderate
+2022,Hungary,Moderate
+2023,Hungary,Moderate
+2024,Hungary,Moderate
+2021,Iceland,Good
+2022,Iceland,Good
+2023,Iceland,Good
+2024,Iceland,Good
+2021,India,Sensitive
+2022,India,Sensitive
+2023,India,Sensitive
+2024,India,Sensitive
+2021,Indonesia,Moderate
+2022,Indonesia,Moderate
+2023,Indonesia,Moderate
+2024,Indonesia,Moderate
+2021,Iran,Sensitive
+2022,Iran,Sensitive
+2023,Iran,Sensitive
+2024,Iran,Sensitive
+2021,Iraq,Sensitive
+2022,Iraq,Sensitive
+2023,Iraq,Sensitive
+2024,Iraq,Sensitive
+2021,Ireland,Good
+2022,Ireland,Good
+2023,Ireland,Good
+2024,Ireland,Good
+2021,Isle of Man,Good
+2022,Isle of Man,Good
+2023,Isle of Man,Good
+2024,Isle of Man,Good
+2021,Israel,Moderate
+2022,Israel,Moderate
+2023,Israel,Moderate
+2024,Israel,Moderate
+2021,Italy,Moderate
+2022,Italy,Moderate
+2023,Italy,Moderate
+2024,Italy,Moderate
+2021,Jamaica,Moderate
+2022,Jamaica,Moderate
+2023,Jamaica,Moderate
+2024,Jamaica,Moderate
+2021,Japan,Good
+2022,Japan,Good
+2023,Japan,Good
+2024,Japan,Good
+2021,Jersey,Good
+2022,Jersey,Good
+2023,Jersey,Good
+2024,Jersey,Good
+2021,Jordan,Moderate
+2022,Jordan,Moderate
+2023,Jordan,Moderate
+2024,Jordan,Moderate
+2021,Kazakhstan,Moderate
+2022,Kazakhstan,Moderate
+2023,Kazakhstan,Moderate
+2024,Kazakhstan,Moderate
+2021,Kenya,Moderate
+2022,Kenya,Moderate
+2023,Kenya,Moderate
+2024,Kenya,Moderate
+2021,Kiribati,Good
+2022,Kiribati,Good
+2023,Kiribati,Good
+2024,Kiribati,Good
+2021,Kosovo,Moderate
+2022,Kosovo,Moderate
+2023,Kosovo,Moderate
+2024,Kosovo,Moderate
+2021,Kuwait,Critical
+2022,Kuwait,Critical
+2023,Kuwait,Critical
+2024,Kuwait,Sensitive
+2021,Kyrgyzstan,Moderate
+2022,Kyrgyzstan,Moderate
+2023,Kyrgyzstan,Moderate
+2024,Kyrgyzstan,Moderate
+2021,Laos,Moderate
+2022,Laos,Moderate
+2023,Laos,Moderate
+2024,Laos,Moderate
+2021,Latvia,Moderate
+2022,Latvia,Moderate
+2023,Latvia,Moderate
+2024,Latvia,Moderate
+2021,Lebanon,Moderate
+2022,Lebanon,Moderate
+2023,Lebanon,Moderate
+2024,Lebanon,Moderate
+2021,Lesotho,Moderate
+2022,Lesotho,Moderate
+2023,Lesotho,Moderate
+2024,Lesotho,Moderate
+2021,Liberia,Moderate
+2022,Liberia,Moderate
+2023,Liberia,Moderate
+2024,Liberia,Moderate
+2021,Libya,Moderate
+2022,Libya,Moderate
+2023,Libya,Moderate
+2024,Libya,Moderate
+2021,Liechtenstein,Good
+2022,Liechtenstein,Good
+2023,Liechtenstein,Good
+2024,Liechtenstein,Good
+2021,Lithuania,Moderate
+2022,Lithuania,Good
+2023,Lithuania,Good
+2024,Lithuania,Good
+2021,Luxembourg,Good
+2022,Luxembourg,Good
+2023,Luxembourg,Good
+2024,Luxembourg,Good
+2021,Macao,Moderate
+2022,Macao,Moderate
+2023,Macao,Moderate
+2024,Macao,Moderate
+2021,Macedonia,Moderate
+2022,Macedonia,Moderate
+2023,Macedonia,Moderate
+2024,Macedonia,Moderate
+2021,Madagascar,Good
+2022,Madagascar,Good
+2023,Madagascar,Good
+2024,Madagascar,Good
+2021,Malawi,Moderate
+2022,Malawi,Moderate
+2023,Malawi,Moderate
+2024,Malawi,Moderate
+2021,Malaysia,Moderate
+2022,Malaysia,Moderate
+2023,Malaysia,Moderate
+2024,Malaysia,Moderate
+2021,Maldives,Moderate
+2022,Maldives,Moderate
+2023,Maldives,Moderate
+2024,Maldives,Moderate
+2021,Mali,Moderate
+2022,Mali,Moderate
+2023,Mali,Moderate
+2024,Mali,Moderate
+2021,Malta,Good
+2022,Malta,Good
+2023,Malta,Good
+2024,Malta,Good
+2021,Marshall Islands,Good
+2022,Marshall Islands,Good
+2023,Marshall Islands,Good
+2024,Marshall Islands,Good
+2021,Martinique,Moderate
+2022,Martinique,Good
+2023,Martinique,Good
+2024,Martinique,Good
+2021,Mauritania,Moderate
+2022,Mauritania,Moderate
+2023,Mauritania,Moderate
+2024,Mauritania,Moderate
+2021,Mauritius,Moderate
+2022,Mauritius,Moderate
+2023,Mauritius,Moderate
+2024,Mauritius,Moderate
+2021,Mayotte,Good
+2022,Mayotte,Good
+2023,Mayotte,Good
+2024,Mayotte,Good
+2021,Mexico,Moderate
+2022,Mexico,Moderate
+2023,Mexico,Moderate
+2024,Mexico,Moderate
+2021,Micronesia,Good
+2022,Micronesia,Good
+2023,Micronesia,Good
+2024,Micronesia,Good
+2021,Moldova,Moderate
+2022,Moldova,Moderate
+2023,Moldova,Moderate
+2024,Moldova,Moderate
+2021,Monaco,Good
+2022,Monaco,Good
+2023,Monaco,Good
+2024,Monaco,Good
+2021,Mongolia,Sensitive
+2022,Mongolia,Sensitive
+2023,Mongolia,Sensitive
+2024,Mongolia,Moderate
+2021,Montenegro,Moderate
+2022,Montenegro,Moderate
+2023,Montenegro,Moderate
+2024,Montenegro,Moderate
+2021,Montserrat,Good
+2022,Montserrat,Good
+2023,Montserrat,Good
+2024,Montserrat,Good
+2021,Morocco,Moderate
+2022,Morocco,Moderate
+2023,Morocco,Moderate
+2024,Morocco,Moderate
+2021,Mozambique,Moderate
+2022,Mozambique,Moderate
+2023,Mozambique,Moderate
+2024,Mozambique,Moderate
+2021,Myanmar,Moderate
+2022,Myanmar,Moderate
+2023,Myanmar,Moderate
+2024,Myanmar,Moderate
+2021,Namibia,Good
+2022,Namibia,Moderate
+2023,Namibia,Moderate
+2024,Namibia,Moderate
+2021,Nauru,Good
+2022,Nauru,Good
+2023,Nauru,Good
+2024,Nauru,Good
+2021,Nepal,Sensitive
+2022,Nepal,Sensitive
+2023,Nepal,Sensitive
+2024,Nepal,Sensitive
+2021,Netherlands,Good
+2022,Netherlands,Good
+2023,Netherlands,Good
+2024,Netherlands,Good
+2021,New Caledonia,Good
+2022,New Caledonia,Good
+2023,New Caledonia,Good
+2024,New Caledonia,Good
+2021,New Zealand,Good
+2022,New Zealand,Good
+2023,New Zealand,Good
+2024,New Zealand,Good
+2021,Nicaragua,Moderate
+2022,Nicaragua,Moderate
+2023,Nicaragua,Moderate
+2024,Nicaragua,Moderate
+2021,Niger,Sensitive
+2022,Niger,Sensitive
+2023,Niger,Sensitive
+2024,Niger,Sensitive
+2021,Nigeria,Critical
+2022,Nigeria,Critical
+2023,Nigeria,Sensitive
+2024,Nigeria,Sensitive
+2021,Niue,Good
+2022,Niue,Good
+2023,Niue,Good
+2024,Niue,Good
+2021,Norfolk Island,Good
+2022,Norfolk Island,Good
+2023,Norfolk Island,Good
+2024,Norfolk Island,Good
+2021,North Korea,Moderate
+2022,North Korea,Moderate
+2023,North Korea,Moderate
+2024,North Korea,Moderate
+2021,Northern Cyprus,Moderate
+2022,Northern Cyprus,Moderate
+2023,Northern Cyprus,Moderate
+2024,Northern Cyprus,Moderate
+2021,Northern Mariana Islands,Good
+2022,Northern Mariana Islands,Good
+2023,Northern Mariana Islands,Good
+2024,Northern Mariana Islands,Good
+2021,Norway,Good
+2022,Norway,Good
+2023,Norway,Good
+2024,Norway,Good
+2021,Oman,Sensitive
+2022,Oman,Sensitive
+2023,Oman,Sensitive
+2024,Oman,Sensitive
+2021,Pakistan,Sensitive
+2022,Pakistan,Sensitive
+2023,Pakistan,Sensitive
+2024,Pakistan,Sensitive
+2021,Palau,Good
+2022,Palau,Good
+2023,Palau,Good
+2024,Palau,Good
+2021,Palestina,Moderate
+2022,Palestina,Moderate
+2023,Palestina,Moderate
+2024,Palestina,Moderate
+2021,Panama,Moderate
+2022,Panama,Moderate
+2023,Panama,Moderate
+2024,Panama,Moderate
+2021,Papua New Guinea,Good
+2022,Papua New Guinea,Good
+2023,Papua New Guinea,Good
+2024,Papua New Guinea,Good
+2021,Paracel Islands,Good
+2022,Paracel Islands,Good
+2023,Paracel Islands,Good
+2024,Paracel Islands,Good
+2021,Paraguay,Moderate
+2022,Paraguay,Moderate
+2023,Paraguay,Moderate
+2024,Paraguay,Moderate
+2021,Peru,Moderate
+2022,Peru,Moderate
+2023,Peru,Moderate
+2024,Peru,Moderate
+2021,Philippines,Moderate
+2022,Philippines,Moderate
+2023,Philippines,Moderate
+2024,Philippines,Moderate
+2021,Pitcairn Islands,Good
+2022,Pitcairn Islands,Good
+2023,Pitcairn Islands,Good
+2024,Pitcairn Islands,Good
+2021,Poland,Moderate
+2022,Poland,Moderate
+2023,Poland,Moderate
+2024,Poland,Moderate
+2021,Portugal,Good
+2022,Portugal,Good
+2023,Portugal,Good
+2024,Portugal,Good
+2021,Puerto Rico,Good
+2022,Puerto Rico,Good
+2023,Puerto Rico,Good
+2024,Puerto Rico,Good
+2021,Qatar,Critical
+2022,Qatar,Critical
+2023,Qatar,Critical
+2024,Qatar,Critical
+2021,Republic of Congo,Sensitive
+2022,Republic of Congo,Sensitive
+2023,Republic of Congo,Moderate
+2024,Republic of Congo,Sensitive
+2021,Reunion,Good
+2022,Reunion,Good
+2023,Reunion,Good
+2024,Reunion,Good
+2021,Romania,Moderate
+2022,Romania,Moderate
+2023,Romania,Moderate
+2024,Romania,Moderate
+2021,Russia,Good
+2022,Russia,Good
+2023,Russia,Good
+2024,Russia,Good
+2021,Rwanda,Sensitive
+2022,Rwanda,Sensitive
+2023,Rwanda,Moderate
+2024,Rwanda,Sensitive
+2021,Saint Helena,Good
+2022,Saint Helena,Good
+2023,Saint Helena,Good
+2024,Saint Helena,Good
+2021,Saint Kitts and Nevis,Good
+2022,Saint Kitts and Nevis,Good
+2023,Saint Kitts and Nevis,Good
+2024,Saint Kitts and Nevis,Good
+2021,Saint Lucia,Good
+2022,Saint Lucia,Good
+2023,Saint Lucia,Good
+2024,Saint Lucia,Good
+2021,Saint Pierre and Miquelon,Good
+2022,Saint Pierre and Miquelon,Good
+2023,Saint Pierre and Miquelon,Good
+2024,Saint Pierre and Miquelon,Good
+2021,Saint Vincent and the Grenadines,Good
+2022,Saint Vincent and the Grenadines,Good
+2023,Saint Vincent and the Grenadines,Good
+2024,Saint Vincent and the Grenadines,Good
+2021,Saint-Barthélemy,Good
+2022,Saint-Barthélemy,Good
+2023,Saint-Barthélemy,Good
+2024,Saint-Barthélemy,Good
+2021,Saint-Martin,Good
+2022,Saint-Martin,Good
+2023,Saint-Martin,Good
+2024,Saint-Martin,Good
+2021,Samoa,Good
+2022,Samoa,Good
+2023,Samoa,Good
+2024,Samoa,Good
+2021,San Marino,Moderate
+2022,San Marino,Moderate
+2023,San Marino,Moderate
+2024,San Marino,Moderate
+2021,Saudi Arabia,Critical
+2022,Saudi Arabia,Critical
+2023,Saudi Arabia,Sensitive
+2024,Saudi Arabia,Sensitive
+2021,Senegal,Sensitive
+2022,Senegal,Sensitive
+2023,Senegal,Moderate
+2024,Senegal,Moderate
+2021,Serbia,Moderate
+2022,Serbia,Moderate
+2023,Serbia,Moderate
+2024,Serbia,Moderate
+2021,Seychelles,Good
+2022,Seychelles,Good
+2023,Seychelles,Good
+2024,Seychelles,Good
+2021,Sierra Leone,Moderate
+2022,Sierra Leone,Moderate
+2023,Sierra Leone,Moderate
+2024,Sierra Leone,Moderate
+2021,Singapore,Good
+2022,Singapore,Good
+2023,Singapore,Moderate
+2024,Singapore,Moderate
+2021,Sint Maarten,Good
+2022,Sint Maarten,Good
+2023,Sint Maarten,Good
+2024,Sint Maarten,Good
+2021,Slovakia,Moderate
+2022,Slovakia,Moderate
+2023,Slovakia,Moderate
+2024,Slovakia,Moderate
+2021,Slovenia,Moderate
+2022,Slovenia,Moderate
+2023,Slovenia,Moderate
+2024,Slovenia,Moderate
+2021,Solomon Islands,Good
+2022,Solomon Islands,Good
+2023,Solomon Islands,Good
+2024,Solomon Islands,Good
+2021,Somalia,Moderate
+2022,Somalia,Moderate
+2023,Somalia,Moderate
+2024,Somalia,Moderate
+2021,South Africa,Moderate
+2022,South Africa,Moderate
+2023,South Africa,Moderate
+2024,South Africa,Moderate
+2021,South Korea,Moderate
+2022,South Korea,Moderate
+2023,South Korea,Moderate
+2024,South Korea,Moderate
+2021,South Sudan,Moderate
+2022,South Sudan,Moderate
+2023,South Sudan,Moderate
+2024,South Sudan,Moderate
+2021,Spain,Good
+2022,Spain,Good
+2023,Spain,Good
+2024,Spain,Good
+2021,Sri Lanka,Moderate
+2022,Sri Lanka,Moderate
+2023,Sri Lanka,Moderate
+2024,Sri Lanka,Moderate
+2021,Sudan,Moderate
+2022,Sudan,Moderate
+2023,Sudan,Moderate
+2024,Sudan,Moderate
+2021,Suriname,Moderate
+2022,Suriname,Moderate
+2023,Suriname,Moderate
+2024,Suriname,Moderate
+2021,Swaziland,Moderate
+2022,Swaziland,Moderate
+2023,Swaziland,Moderate
+2024,Swaziland,Moderate
+2021,Sweden,Good
+2022,Sweden,Good
+2023,Sweden,Good
+2024,Sweden,Good
+2021,Switzerland,Good
+2022,Switzerland,Good
+2023,Switzerland,Good
+2024,Switzerland,Good
+2021,Syria,Moderate
+2022,Syria,Moderate
+2023,Syria,Moderate
+2024,Syria,Moderate
+2021,São Tomé and Príncipe,Moderate
+2022,São Tomé and Príncipe,Moderate
+2023,São Tomé and Príncipe,Moderate
+2024,São Tomé and Príncipe,Moderate
+2021,Taiwan,Moderate
+2022,Taiwan,Moderate
+2023,Taiwan,Moderate
+2024,Taiwan,Moderate
+2021,Tajikistan,Moderate
+2022,Tajikistan,Moderate
+2023,Tajikistan,Moderate
+2024,Tajikistan,Moderate
+2021,Tanzania,Moderate
+2022,Tanzania,Moderate
+2023,Tanzania,Moderate
+2024,Tanzania,Moderate
+2021,Thailand,Moderate
+2022,Thailand,Moderate
+2023,Thailand,Moderate
+2024,Thailand,Moderate
+2021,Timor-Leste,Good
+2022,Timor-Leste,Good
+2023,Timor-Leste,Good
+2024,Timor-Leste,Good
+2021,Togo,Moderate
+2022,Togo,Moderate
+2023,Togo,Moderate
+2024,Togo,Moderate
+2021,Tokelau,Good
+2022,Tokelau,Good
+2023,Tokelau,Good
+2024,Tokelau,Good
+2021,Tonga,Good
+2022,Tonga,Good
+2023,Tonga,Good
+2024,Tonga,Good
+2021,Trinidad and Tobago,Moderate
+2022,Trinidad and Tobago,Moderate
+2023,Trinidad and Tobago,Moderate
+2024,Trinidad and Tobago,Moderate
+2021,Tunisia,Moderate
+2022,Tunisia,Moderate
+2023,Tunisia,Moderate
+2024,Tunisia,Moderate
+2021,Turkey,Moderate
+2022,Turkey,Moderate
+2023,Turkey,Moderate
+2024,Turkey,Moderate
+2021,Turkmenistan,Moderate
+2022,Turkmenistan,Moderate
+2023,Turkmenistan,Moderate
+2024,Turkmenistan,Moderate
+2021,Turks and Caicos Islands,Good
+2022,Turks and Caicos Islands,Good
+2023,Turks and Caicos Islands,Good
+2024,Turks and Caicos Islands,Good
+2021,Tuvalu,Good
+2022,Tuvalu,Good
+2023,Tuvalu,Good
+2024,Tuvalu,Good
+2021,Uganda,Moderate
+2022,Uganda,Moderate
+2023,Uganda,Moderate
+2024,Uganda,Moderate
+2021,Ukraine,Moderate
+2022,Ukraine,Moderate
+2023,Ukraine,Moderate
+2024,Ukraine,Moderate
+2021,United Arab Emirates,Critical
+2022,United Arab Emirates,Critical
+2023,United Arab Emirates,Critical
+2024,United Arab Emirates,Critical
+2021,United Kingdom,Good
+2022,United Kingdom,Good
+2023,United Kingdom,Good
+2024,United Kingdom,Good
+2021,United States,Good
+2022,United States,Good
+2023,United States,Good
+2024,United States,Good
+2021,Uruguay,Good
+2022,Uruguay,Good
+2023,Uruguay,Good
+2024,Uruguay,Good
+2021,Uzbekistan,Moderate
+2022,Uzbekistan,Moderate
+2023,Uzbekistan,Moderate
+2024,Uzbekistan,Moderate
+2021,Vanuatu,Good
+2022,Vanuatu,Good
+2023,Vanuatu,Good
+2024,Vanuatu,Good
+2021,Vatican City,Moderate
+2022,Vatican City,Moderate
+2023,Vatican City,Moderate
+2024,Vatican City,Moderate
+2021,Venezuela,Moderate
+2022,Venezuela,Moderate
+2023,Venezuela,Moderate
+2024,Venezuela,Moderate
+2021,Vietnam,Moderate
+2022,Vietnam,Moderate
+2023,Vietnam,Moderate
+2024,Vietnam,Moderate
+2021,Virgin Islands; U.S.,Good
+2022,Virgin Islands; U.S.,Good
+2023,Virgin Islands; U.S.,Good
+2024,Virgin Islands; U.S.,Good
+2021,Wallis and Futuna,Good
+2022,Wallis and Futuna,Good
+2023,Wallis and Futuna,Good
+2024,Wallis and Futuna,Good
+2021,Western Sahara,Moderate
+2022,Western Sahara,Moderate
+2023,Western Sahara,Moderate
+2024,Western Sahara,Moderate
+2021,Yemen,Sensitive
+2022,Yemen,Sensitive
+2023,Yemen,Moderate
+2024,Yemen,Sensitive
+2021,Zambia,Moderate
+2022,Zambia,Moderate
+2023,Zambia,Moderate
+2024,Zambia,Moderate
+2021,Zimbabwe,Moderate
+2022,Zimbabwe,Moderate
+2023,Zimbabwe,Moderate
+2024,Zimbabwe,Moderate
